@@ -1,0 +1,321 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" ng-app="ventasDigitales" class="ng-scope"><head><style type="text/css">.ng-animate.item:not(.left):not(.right){-webkit-transition:0s ease-in-out left;transition:0s ease-in-out left}</style><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}</style>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<!-- <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0-wip/css/bootstrap.min.css" rel="stylesheet"> -->
+<!-- <link href="css/bootstrap.min.css" rel="stylesheet"> -->
+<link href="css/modules.css" rel="stylesheet" />
+<link href="css/bancolombia.css" rel="stylesheet" />
+<link href="css/bootstrap-theme.css" rel="stylesheet" />
+<link href="css/font-awesome.min.css" rel="stylesheet" />
+<link href="css/bootstrap-social.css" rel="stylesheet" />
+<link href="css/referidos-bc.css" rel="stylesheet" />
+<link href="css/angucomplete-alt.css" rel="stylesheet" />
+<!-- Google Tag Manager -->
+<script src="https://connect.facebook.net/signals/plugins/identity.js?v=2.8.12" async=""></script><script src="https://connect.facebook.net/signals/config/1362658660476151?v=2.8.12&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/config/1871907983092659?v=2.8.12&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/config/1252803844801881?v=2.8.12&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/config/1221869324567137?v=2.8.12&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://config-rumlive.rum.nccgroup-webperf.com/A0C0C4C3-4CBB-0A2E-02AA-1F12B52FCBB4/nccrum.config.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=GTM-TFW9R4P&amp;t=gtm8&amp;cid=1936036210.1520181443"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-53HQ3SF"></script><script type="text/javascript" async="" src="//cdn.mouseflow.com/projects/e251a881-9715-4c59-9aad-65bf75a2cb7a.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W95WRK"></script><script>
+	(function(w, d, s, l, i) {
+		w[l] = w[l] || [];
+		w[l].push({
+			'gtm.start' : new Date().getTime(),
+			event : 'gtm.js'
+		});
+		var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&amp;l='
+				+ l
+				: '';
+		j.async = true;
+		j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+		f.parentNode.insertBefore(j, f);
+	})(window, document, 'script', 'dataLayer', 'GTM-W95WRK');
+</script>
+<!-- End Google Tag Manager -->
+<title>Formulario Referidos</title>
+<script async="" src="//static.hotjar.com/c/hotjar-373418.js?sv=5"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/971830635/?random=1520181456595&amp;cv=9&amp;fst=1520181456595&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;u_his=4&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=4&amp;u_nmime=5&amp;gtm=G2r&amp;frm=1&amp;url=https%3A%2F%2Fwww.grupobancolombia.com%2Fwps%2Fportal%2Fpersonas%2Fproductos-servicios%2Ftarjetas-credito%2Freferido-tarjeta-credito&amp;ref=https%3A%2F%2Fwww.grupobancolombia.com%2Fwps%2Fportal%2Fpersonas%2Fproductos-servicios%2Ftarjetas-credito%2Freferido-tarjeta-credito&amp;tiba=Formulario%20Referidos&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script async="" src="https://script.hotjar.com/modules-fa7b914657f32d32df01f26b19e8f066.js"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><style type="text/css"></style></head>
+
+<body ng-controller="utilCtrl" class="ng-scope">
+	<section>
+		<!-- ngView:  --><div ng-view="" class="ng-scope"><div id="conIframe_rm" class="ng-scope">
+	<header class="jumbotron row-header">
+		<!--     Main component for a primary marketing message or call to action -->
+		<div class="container-fluid">
+			<div class="row row-header">
+				<div class="col-xs-12 col-sm-8 col-sm-offset-2">
+					<div class="row-table steps">
+						<div class="col-cell current">
+							<div class="line-right"></div>
+							<div class="step one" data-toggle="tooltip" data-placement="bottom" title="Datos básicos"></div>
+						</div>
+						<div class="col-cell">
+							<div class="line-left"></div>
+							<div class="line-right"></div>
+							<div class="step two" data-toggle="tooltip" data-placement="bottom" title="Información personal"></div>
+						</div>
+						<div class="col-cell">
+							<div class="line-left"></div>
+							<div class="step tree" data-toggle="tooltip" data-placement="bottom" title="Información laboral"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<div class="container-fluid">
+		<form class="ng-pristine ng-untouched ng-invalid ng-invalid-autocomplete-required ng-invalid-required ng-valid-minlength ng-valid-maxlength ng-valid-date ng-valid-pattern" role="form" name="formRequisitos" ng-model="formRequisitos" autocomplete="off">
+			<div class="row">
+				<!--div class="col-xs-12 col-md-11">
+               <h2 class="text-right"> <strong>Formulario de solicitud {{referido.productoSeleccionado.descripcion}} - Referidos</strong></h2>
+           </div-->
+				<div class="col-xs-12 col-md-11 tiptext-right gray-plan mt30">
+					<h2 class="blue border-bottom mt30">Datos básicos</h2>
+					<h2 class="mt30">Información Personal</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12 col-sm-6 col-md-5 mt30">
+					<label for="nombresReq" class="control-label">Nombres</label> <input type="text" class="form-control control-bc ng-pristine ng-untouched ng-invalid ng-invalid-required ng-valid-minlength ng-valid-maxlength" id="nombresReq" name="nombresReq" placeholder="Ingresa tus nombres" ng-model="referido.requisitosMinimos.nombres" ng-value="referido.requisitosMinimos.nombres" ng-maxlength="160" maxlength="160" ng-minlength="3" ng-required="true" nombres-apellidos="" required="required" />
+					<div class="row">
+						<div class="col-xs-12">
+							<div class="required-error ng-hide" role="alert" ng-show="formRequisitos.nombresReq.$touched &amp;&amp; formRequisitos.nombresReq.$invalid">
+								<span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> <span class="sr-only">Error:</span>
+								Campo requerido
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1 mt30">
+					<label for="apellidosReq" class="control-label">Apellidos</label> <input type="text" class="form-control control-bc ng-pristine ng-untouched ng-invalid ng-invalid-required ng-valid-minlength ng-valid-maxlength" id="apellidosReq" name="apellidosReq" placeholder="Ingresa tus apellidos" ng-model="referido.requisitosMinimos.apellidos" ng-value="referido.requisitosMinimos.apellidos" ng-maxlength="160" maxlength="160" ng-minlength="3" ng-required="true" nombres-apellidos="" required="required" />
+					<div class="row">
+						<div class="col-xs-12">
+							<div class="required-error ng-hide" role="alert" ng-show="formRequisitos.apellidosReq.$touched &amp;&amp; formRequisitos.apellidosReq.$invalid">
+								<span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> <span class="sr-only">Error:</span>
+								Campo requerido
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12 col-sm-6 col-md-5 mt30">
+					<label for="typedocreq" class="control-label">Tipo de
+						documento de identidad </label>
+					<div class="custom-select">
+						<select class="dropdown-toggle ng-pristine ng-untouched ng-invalid ng-invalid-required" type="button" id="typedocreq" name="typedocreq" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" ng-model="datacattiposdocreq.selectedOption" ng-options="option.descripcion for option in datacattiposdocreq.availableOptions track by option.id" ng-required="true" required="required" ng-change="resetDocumento()"><option value="" class="">Elige tu tipo de documento</option><option value="CC" label="Cédula de Ciudadanía">Cédula de Ciudadanía</option><option value="CE" label="Cédula de Extranjería">Cédula de Extranjería</option><option value="PP" label="Pasaporte">Pasaporte</option><option value="TI" label="Tarjeta de Identidad">Tarjeta de Identidad</option><option value="RC" label="Registro Civil">Registro Civil</option><option value="CD" label="Carné Diplomático">Carné Diplomático</option></select>
+					</div>
+					<div class="row">
+						<div class="col-xs-12">
+							<div class="required-error ng-hide" role="alert" ng-show="formRequisitos.typedocreq.$touched &amp;&amp; formRequisitos.typedocreq.$invalid">
+								<span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> <span class="sr-only">Error:</span>
+								Campo requerido
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- ngIf: datacattiposdocreq.selectedOption.id == 'CC' -->
+				<!-- ngIf: datacattiposdocreq.selectedOption.id!='CC' --><div ng-if="datacattiposdocreq.selectedOption.id!='CC'" class="ng-scope">
+					<div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1 mt30">
+						<label for="numeroPasaporte" class="control-label">Número
+							de documento de identidad </label> <input type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" class="form-control control-bc ng-pristine ng-untouched ng-invalid ng-invalid-required ng-valid-minlength ng-valid-maxlength" id="numeroPasaporte" name="numeroPasaporte" placeholder="Ingresa tu número de documento" ng-model="referido.requisitosMinimos.numeroDocumento" documentos-identidad="" ng-maxlength="16" maxlength="16" ng-minlength="2" ng-required="datacattiposdocreq.selectedOption.id !='CC'" required="required" />
+						<div class="row">
+							<div class="col-xs-12">
+								<div class="required-error ng-hide" role="alert" ng-show="formRequisitos.numeroPasaporte.$touched &amp;&amp; formRequisitos.numeroPasaporte.$invalid">
+									<span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> <span class="sr-only">Error:</span>
+									<span ng-show="formRequisitos.numeroPasaporte.$error.required">Campo
+										requerido </span> <span ng-show="formRequisitos.numeroPasaporte.$invalid &amp;&amp; !formRequisitos.numeroPasaporte.$error.required" class="ng-hide">
+										Formato no válido </span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div><!-- end ngIf: datacattiposdocreq.selectedOption.id!='CC' -->
+			</div>
+			<div class="row">
+				<div class="col-xs-12 col-sm-6 col-md-5 mt30">
+					<div class="form-group">
+						<label for="fechaNacimientoReq" class="control-label">Fecha
+							de nacimiento</label>
+						<div class="input-group calendar">
+							<input class="dateMask control-bc ng-pristine ng-untouched ng-isolate-scope ng-valid-date ng-invalid ng-invalid-required ng-valid-minlength ng-valid-maxlength" type="text" id="fechaNacimientoReq" name="fechaNacimientoReq" uib-datepicker-popup="" ng-model="referido.requisitosMinimos.fechaNacimiento" ng-click="close()" is-open="status.opened" min-date="fechaMin" max-date="fechaMax" close-on-date-selection="true" datepicker-options="dateOptions" ng-required="true" alt-input-formats="dateFormat" close-text="Cerrar" placeholder="AAAA-MM-DD" datepicker-mode="'year'" minlength="3" maxlength="10" required="required" /><!-- ngIf: isOpen --> 
+								<span class="input-group-btn">
+								<button type="button" class="btn btn-default" ng-click="openCalendarFR()">
+									<i class="fa fa-calendar blue"></i>
+								</button>
+							</span>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-12">
+							<div class="required-error ng-hide" role="alert" ng-show="(formRequisitos.fechaNacimientoReq.$touched &amp;&amp; formRequisitos.fechaNacimientoReq.$invalid) || (referido.requisitosMinimos.fechaNacimiento &gt; fechaMax || referido.requisitosMinimos.fechaNacimiento &lt; fechaMin)">
+								<span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> <span class="sr-only">Error:</span>
+								Debes ingresar una fecha válida
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1 mt30">
+					<label for="ingresos-mensuales" class="control-label">¿Cuáles
+						son tus ingresos mensuales?</label>
+					<div class="money-input">
+						<span class="addon">$</span> 
+						<input type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" class="form-control control-bc ng-pristine ng-untouched ng-invalid ng-invalid-required ng-valid-pattern ng-valid-minlength ng-valid-maxlength" name="ingresos" id="ingresos-mensuales" fraction="0" onkeypress="return (event.charCode &gt;= 48 &amp;&amp; event.charCode &lt;= 57) || event.keyCode == 46 || event.keyCode == 8 || event.keyCode == 37 || event.keyCode == 39 || event.keyCode == 173 || event.charCode == 45" placeholder="Ingresa la suma de tus ingresos mensuales" ng-model="referido.requisitosMinimos.ingresosMensuales" aria-label=" Ingresos en pesos colombianos. Cifras cerradas" ng-pattern="/^[0-9,*.]*$/" ng-minlength="1" ng-maxlength="15" maxlength="12" minlength="1" ng-required="true" numeric-input="" required="required" />
+					</div>
+					<div class="row">
+						<div class="col-xs-12">
+							<div class="required-error ng-hide" role="alert" ng-show="formRequisitos.ingresos.$touched &amp;&amp; formRequisitos.ingresos.$invalid">
+								<span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> <span class="sr-only">Error:</span>
+								<span ng-show="formRequisitos.ingresos.$error.required">Campo
+									requerido </span> <span ng-show="formRequisitos.ingresos.$invalid &amp;&amp; !formRequisitos.ingresos.$error.required &amp;&amp; !formRequisitos.ingresos.$error.valorMinimoValidator" class="ng-hide">
+									Formato no válido </span>
+								<!-- <span ng-message="valorMinimoValidator">
+								No cumples con el requisito mínimo de ingresos </span> -->
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12 col-sm-6 col-md-5 align-icon mt30">
+					<label for="reqCiuidadDpto" class="control-label">Ciudad y
+						departamento de residencia </label>
+					<div class="form-group">
+						<angucomplete-alt class="control-bc ng-isolate-scope" id="reqCiuidadDpto" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" input-name="reqCiuidadDpto" placeholder="Ciudad y departamento residencia" pause="100" selected-object="datacatcitiesreq.selectedOption" local-data="datacatcitiesreq.availableOptions" search-fields="descripcion" title-field="descripcion" initial-value="datacatcitiesreq.initialValue" input-class="control-bc" minlength="3" maxlength="100" field-required="true"><div class="angucomplete-holder" ng-class="{'angucomplete-dropdown-visible': showDropdown}">  <input id="reqCiuidadDpto_value" name="reqCiuidadDpto" tabindex="" ng-class="{'angucomplete-input-not-empty': notEmpty}" ng-model="searchStr" ng-disabled="disableInput" type="text" placeholder="Ciudad y departamento residencia" maxlength="100" ng-focus="onFocusHandler()" class="control-bc ng-invalid ng-invalid-autocomplete-required ng-valid-maxlength" ng-blur="hideResults($event)" autocapitalize="off" autocorrect="off" autocomplete="off" ng-change="inputChangeHandler(searchStr)" />  <div id="reqCiuidadDpto_dropdown" class="angucomplete-dropdown ng-hide" ng-show="showDropdown">    <div class="angucomplete-searching ng-binding ng-hide" ng-show="searching" ng-bind="textSearching">Searching...</div>    <div class="angucomplete-searching ng-binding" ng-show="!searching &amp;&amp; (!results || results.length == 0)" ng-bind="textNoResults">No results found</div>    <!-- ngRepeat: result in results -->  </div></div></angucomplete-alt></div>
+					<div class="row">
+						<div class="col-xs-12">
+							<div class="required-error ng-hide" role="alert" ng-show="(formRequisitos.reqCiuidadDpto.$error.required &amp;&amp; formRequisitos.reqCiuidadDpto.$touched)">
+								<span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> <span class="sr-only">Error:</span>
+								<span ng-show="(formRequisitos.reqCiuidadDpto.$error.required &amp;&amp; formRequisitos.reqCiuidadDpto.$touched)" class="ng-hide">Campo
+									requerido </span>
+							</div>
+							<div class="required-error ng-hide" role="alert" ng-show="(formRequisitos.reqCiuidadDpto.$touched &amp;&amp; formRequisitos.reqCiuidadDpto.$invalid)">
+								<span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> <span class="sr-only">Error:</span>
+								<span ng-show="formRequisitos.reqCiuidadDpto.$invalid &amp;&amp; !formRequisitos.reqCiuidadDpto.$error.required">Debes
+									seleccionar una ciudad válida</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row mt60">
+				<div class="col-xs-12 col-sm-11">
+					<p>
+						Si no encuentras tu ciudad de residencia, te invitamos a visitar
+						nuestra oficina más cercana o comunicarte con nuestra Línea de
+						Atención Gratuita <strong class="ng-binding">  01800 09 12345</strong>
+					</p>
+				</div>
+			</div>
+			<div class="row mt50">
+				<div class="col-xs-6 text-right">
+					<button type="button" class="btn btn-bc3-r" ng-click="cancelarSolicitud()">Cancelar</button>
+				</div>
+				<div class="col-xs-6 text-left">
+					<button type="button" class="btn btn-primary bc btn-block" title="Continuar" ng-disabled="!formRequisitos.$valid || (referido.requisitosMinimos.fechaNacimiento &gt; fechaMax || referido.requisitosMinimos.fechaNacimiento &lt; fechaMin)" ng-click="irInfoPersonal(formRequisitos)" disabled="disabled">Continuar</button>
+				</div>
+			</div>
+		</form>
+	</div>
+</div>
+</div>
+	</section>
+
+	<div class="loading ng-scope ng-hide" us-spinner="{radius:0, width:0, length: 0, color:'', opacity:0}"><div class="spinner" role="progressbar" style="position: absolute; width: 0px; z-index: 2000000000; left: 50%; top: 50%;"><div style="position: absolute; top: 0px; opacity: 0; animation: opacity-100-0-0-12 1s linear infinite;"><div style="position: absolute; width: 0px; height: 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(0deg) translate(0px, 0px); border-radius: 0px;"></div></div><div style="position: absolute; top: 0px; opacity: 0; animation: opacity-100-0-1-12 1s linear infinite;"><div style="position: absolute; width: 0px; height: 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(30deg) translate(0px, 0px); border-radius: 0px;"></div></div><div style="position: absolute; top: 0px; opacity: 0; animation: opacity-100-0-2-12 1s linear infinite;"><div style="position: absolute; width: 0px; height: 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(60deg) translate(0px, 0px); border-radius: 0px;"></div></div><div style="position: absolute; top: 0px; opacity: 0; animation: opacity-100-0-3-12 1s linear infinite;"><div style="position: absolute; width: 0px; height: 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(90deg) translate(0px, 0px); border-radius: 0px;"></div></div><div style="position: absolute; top: 0px; opacity: 0; animation: opacity-100-0-4-12 1s linear infinite;"><div style="position: absolute; width: 0px; height: 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(120deg) translate(0px, 0px); border-radius: 0px;"></div></div><div style="position: absolute; top: 0px; opacity: 0; animation: opacity-100-0-5-12 1s linear infinite;"><div style="position: absolute; width: 0px; height: 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(150deg) translate(0px, 0px); border-radius: 0px;"></div></div><div style="position: absolute; top: 0px; opacity: 0; animation: opacity-100-0-6-12 1s linear infinite;"><div style="position: absolute; width: 0px; height: 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(180deg) translate(0px, 0px); border-radius: 0px;"></div></div><div style="position: absolute; top: 0px; opacity: 0; animation: opacity-100-0-7-12 1s linear infinite;"><div style="position: absolute; width: 0px; height: 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(210deg) translate(0px, 0px); border-radius: 0px;"></div></div><div style="position: absolute; top: 0px; opacity: 0; animation: opacity-100-0-8-12 1s linear infinite;"><div style="position: absolute; width: 0px; height: 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(240deg) translate(0px, 0px); border-radius: 0px;"></div></div><div style="position: absolute; top: 0px; opacity: 0; animation: opacity-100-0-9-12 1s linear infinite;"><div style="position: absolute; width: 0px; height: 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(270deg) translate(0px, 0px); border-radius: 0px;"></div></div><div style="position: absolute; top: 0px; opacity: 0; animation: opacity-100-0-10-12 1s linear infinite;"><div style="position: absolute; width: 0px; height: 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(300deg) translate(0px, 0px); border-radius: 0px;"></div></div><div style="position: absolute; top: 0px; opacity: 0; animation: opacity-100-0-11-12 1s linear infinite;"><div style="position: absolute; width: 0px; height: 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(330deg) translate(0px, 0px); border-radius: 0px;"></div></div></div>
+		<div class="container load-content">
+			<div class="row">
+				<div class="col-xs-12 col-sm-6 col-sm-offset-3 load-style">
+					<div class="load-icon text-center mt20">
+						<img src="img/icono-maneja-dinero.png" alt="icono-cargando" />
+						<h3 class="blue mt-5">
+							Cargando <img class="dots-loading" src="img/dots64.gif" />
+						</h3>
+						<div>
+							<p class="blue mt50 font-size-20">
+								<strong>En este momento nos encontramos procesando tu
+									solicitud. </strong>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script src="js/CDNS/angular.min.js"></script><script type="text/javascript" id="">(function(a,b,c,e,d,f,g){a.GoogleAnalyticsObject=d;a[d]=a[d]||function(){(a[d].q=a[d].q||[]).push(arguments)};a[d].l=1*new Date;f=b.createElement(c);g=b.getElementsByTagName(c)[0];f.async=1;f.src=e;g.parentNode.insertBefore(f,g)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");var gaAccounts=google_tag_manager["GTM-W95WRK"].macro('gtm3');
+for(i=0;i&lt;gaAccounts.length;i++)ga("create",gaAccounts[i].id,"auto",{name:gaAccounts[i].name.replace(".","")}),ga(gaAccounts[i].name+"require","displayfeatures"),ga(gaAccounts[i].name+"require","linker"),ga(gaAccounts[i].name+"linker:autoLink",["asistencia.webv2.allus.com.co"]),ga(gaAccounts[i].name+"send","pageview");function gaSetDimension(a){for(i=0;i&lt;gaAccounts.length;i++)ga(gaAccounts[i].name+"set",a)}
+function gaSendEvent(a,b,c,e){for(i=0;i&lt;gaAccounts.length;i++)ga(gaAccounts[i].name+"send","event",a,b,c,e)}function gaSendEventNonInteraction(a,b,c,e){for(i=0;i&lt;gaAccounts.length;i++)ga(gaAccounts[i].name+"send","event",a,b,c,e,{nonInteraction:!0})}
+function nameActiveWizardTC(){var a="",b="";try{b=$(".tab-content div[class\x3d'tab-pane fade active in']"),null==b[0]?a="no activo":(b=$(".tab-content div[class\x3d'tab-pane fade active in']").attr("id"),a=$("a[href\x3d'#"+b+"'][data-toggle\x3d'tab'] h3").text().trim().toLowerCase())}catch(c){console.log("GA: Error obteniendo Wizard activo de tarjetas")}""==a&amp;&amp;(a=google_tag_manager["GTM-W95WRK"].macro('gtm4'));return a}
+function nameActiveWizardGeneric(){var a="";try{a=$(".destacado-wizard div[class\x3d'row-fluid destacados-categoria active'] h3").text(),a=""==a?"wizard no activo":$(".destacado-wizard div[class\x3d'row-fluid destacados-categoria active'] h3").text().trim().toLowerCase()}catch(b){console.log("GA: Error obteniendo valor de seccion de boton de B1C necesidades")}""==a&amp;&amp;(a=google_tag_manager["GTM-W95WRK"].macro('gtm5'));return a}
+function nameActiveTab(){var a="";try{a=$(".tabs-verticales li[class\x3d'active']").text(),a=""==a?$(".tabs-verticales li[class\x3d'none active']").text().trim().toLowerCase():$(".tabs-verticales li[class\x3d'active']").text().trim().toLowerCase()}catch(b){console.log("GA: Error obteniendo valor de seccion de boton de B1C tabs")}""==a&amp;&amp;(a=google_tag_manager["GTM-W95WRK"].macro('gtm6'));return a}function referrer(){var a="";try{a=google_tag_manager["GTM-W95WRK"].macro('gtm7')}catch(b){console.log("Error obteniendo el referido")}return a};</script><script type="text/javascript" id="">(function(a,c,e,f,d,b){a.hj=a.hj||function(){(a.hj.q=a.hj.q||[]).push(arguments)};a._hjSettings={hjid:373418,hjsv:5};d=c.getElementsByTagName("head")[0];b=c.createElement("script");b.async=1;b.src=e+a._hjSettings.hjid+f+a._hjSettings.hjsv;d.appendChild(b)})(window,document,"//static.hotjar.com/c/hotjar-",".js?sv\x3d");</script>
+<script type="text/javascript" id="">(function(b,c,d,a,e){b[a]=b[a]||[];b[a].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});b=c.getElementsByTagName(d)[0];c=c.createElement(d);a="dataLayer"!=a?"\x26l\x3d"+a:"";c.async=!0;c.src="https://www.googletagmanager.com/gtm.js?id\x3d"+e+a;b.parentNode.insertBefore(c,b)})(window,document,"script","dataLayer","GTM-53HQ3SF");</script>
+
+
+<noscript>&lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-53HQ3SF" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;</noscript>
+<iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/rcj-99d43ead6bdf30da8ed5ffcb4f17100c.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><script type="text/javascript" id="">(function(a){a.NCCBOOMR={customer_id:"A0C0C4C3-4CBB-0A2E-02AA-1F12B52FCBB4"}})(window);</script>
+<script type="text/javascript" id="" src="https://script-rumlive.rum.nccgroup-webperf.com/nccrum.core.js"></script>
+	<script src="js/CDNS/angular-route.min.js"></script>
+	<script src="js/CDNS/angular-resource.min.js"></script>
+	<script src="js/CDNS/angular-messages.min.js"></script>
+	<script src="js/CDNS/angular-cookies.min.js"></script>
+	<script src="js/CDNS/angular-filter.js"></script>
+
+	<script src="js/CDNS/angular-locale_pt-br.js"></script>
+	<script src="js/angular-input-masks-dependencies.js"></script>
+	<script src="js/CDNS/angular-input-masks-standalone.min.js"></script>
+	<script src="js/app.js"></script>
+	<script src="js/re-tree.min.js"></script>
+	<script src="js/ng-device-detector.min.js"></script>
+	<script src="js/angucomplete-alt.min.js"></script>
+	<script src="js/ui-bootstrap-tpls-0.14.3.min.js"></script>
+	<script src="js/utilitiesCtrl.js"></script>
+	<script src="js/cookieReferidos.js"></script>
+	<script src="js/modal.js"></script>
+	<script src="js/modalCtrl.js"></script>
+	<script src="js/requisitosMinimosCtrl.js"></script>
+	<script src="js/ejemplosMascarasCtrl.js"></script>
+	<script src="js/ejemplosMascarasRecibidoCtrl.js"></script>
+	<script src="js/informacionPersonalCtrl.js"></script>
+	<script src="js/informacionLaboralCtrl.js"></script>
+	<script src="js/agradecimientoCtrl.js"></script>
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script src="js/CDNS/jquery.min.js"></script>
+	<!-- 	<script src="js/CDNS/jquery-1.10.2.min.js"></script> -->
+	<script src="js/CDNS/jquery.mask.js"></script>
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/tooltip.js"></script>
+	<script src="js/popover.js"></script>
+	<script src="js/angular-locale_es-co.js"></script>
+	<script src="js/tagsReferidos.js"></script>
+	<script src="js/ObtenerCookie.js"></script>
+	<script src="js/utilidadesCtrl.js"></script>
+	<script src="js/ngMask.min.js"></script>
+	<script src="js/jquery.maskedinput-1.3.js"></script>
+	<script src="js/angular-spinner.min.js"></script>
+	<script src="js/angular-loading-spinner.js"></script>
+	<script src="js/spin.min.js"></script>
+	<!-- Google Tag Manager (noscript) -->
+	<noscript>
+		&lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W95WRK"
+			(https://www.googletagmanager.com/ns.html?id=GTM-W95WRK ') height="0"
+			width="0" style="display: none; visibility: hidden"&gt;&lt;/iframe&gt;
+	</noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+
+<div id="ads"></div><div style="display: none; visibility: hidden;">
+<script>!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1362658660476151",{em:"insert_email_variable,"});fbq("track","PageView");</script>
+<noscript></noscript>
+
+</div><div style="display: none; visibility: hidden;">
+<script>!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1871907983092659",{em:"insert_email_variable,"});fbq("track","PageView");</script>
+<noscript></noscript>
+
+</div><div style="display: none; visibility: hidden;">
+<script>!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1252803844801881",{});fbq("track","PageView");</script>
+<noscript></noscript>
+
+</div><div style="display: none; visibility: hidden;">
+<script>!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1221869324567137",{em:"insert_email_variable,"});fbq("track","PageView");</script>
+<noscript></noscript>
+
+</div></body></html>

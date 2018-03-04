@@ -1,0 +1,125 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="es"><head><meta charset="utf-8" /><title>Bancolombia</title><meta content="Bancolombia" property="og:site_name" /><base href="/" /><script src="assets/sjcl.js"></script><script src="assets/sha.js"></script><script src="assets/ibm-mfp-web-sdk/lib/analytics/ibmmfpfanalytics.js"></script><script src="assets/ibm-mfp-web-sdk/ibmmfpf.js"></script><meta content="ie=edge" http-equiv="x-ua-compatible" /><meta name="viewport" content="width=device-width,initial-scale=1user-scalable=no" /><link rel="apple-touch-icon" sizes="180x180" href="./assets/favicon/apple-touch-icon.png" /><link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon/favicon-32x32.png" /><link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon/favicon-16x16.png" /><link rel="manifest" href="./assets/favicon/manifest.json" /><link rel="mask-icon" href="./assets/favicon/safari-pinned-tab.svg" color="#5bbad5" /><link href="https://fonts.googleapis.com/css?family=Nunito:200,300,400,600,700,800,900|Open+Sans:300,400,600,700,800" rel="stylesheet" /><meta content="#ffffff" name="theme-color" /><meta content="yes" name="apple-mobile-web-app-capable" /><meta property="al:ios:url" content="appnegocios://invite_from_fb?referral=1261922862" /><meta property="al:ios:app_store_id" content="1261922862" /><meta property="al:ios:app_name" content="appnegocios" /><meta property="al:android:url" content="appnegocios://invite_from_fb?referral=1261922862" /><meta property="al:android:app_name" content="appnegocios" /><meta property="al:android:package" content="com.grupobancolombia.appnegocios" /><meta property="al:web:url" content="http://www.grupobancolombia.com/negocios.html" /><link href="styles.07a12710d312c3ebeabb.bundle.css" rel="stylesheet" /><style>@import url(https://fonts.googleapis.com/css?family=Open+Sans);@import url(https://fonts.googleapis.com/css?family=Nunito);.ah-title{font-size:34px}.ah-subtitle,.ah-title{color:#333;font-family:Nunito,sans-serif;font-weight:700}.ah-subtitle{font-size:22px;margin-top:5px}.ah-primary-text-black{color:#333}.ah-primary-text-black,.ah-primary-text-gray{font-size:34px;font-family:Nunito,sans-serif;font-weight:700}.ah-primary-text-gray{color:#5b5b5b}.ah-number-account-black{color:#333}.ah-number-account-black,.ah-number-account-gray{font-size:34px;font-family:Nunito,sans-serif;font-weight:700}.ah-number-account-gray{color:#5b5b5b}.ah-value-number{font-size:34px;font-weight:700}.ah-field-text-blue,.ah-value-number{color:#00448c;font-family:Open Sans,sans-serif}.ah-field-text-blue{font-size:20px;font-weight:600}.ah-field-text-gray{color:#888;font-size:18px;font-family:Nunito,sans-serif;font-weight:700}.ah-text-list{color:#333;font-size:14px;font-family:Open Sans,sans-serif;font-weight:600}.ah-text-line-fech{color:#727272;font-size:12px;font-family:Open Sans,sans-serif;font-weight:400}.ah-field-text-blue-account{color:#00448c;font-size:30px;font-family:Open Sans,sans-serif;font-weight:600}.ah-btn-secundary-text-soft{color:#888;font-size:13px;font-family:Open Sans,sans-serif;font-weight:400}.ah-btn-small-text{color:#333;font-size:15px;font-family:Open Sans,sans-serif;font-weight:600}.ah-btn-small-text-gray{color:#333;font-size:22px;font-family:Nunito,sans-serif;font-weight:700}.ah-btn-secundary-text-gray{color:#5b5b5b;font-size:16px;font-family:Open Sans,sans-serif;font-weight:700}.ah-btn-secundary-text-blue{font-size:14px}.ah-btn-secundary-text-blue,.ah-field-text-blue-semi-bold{color:#00448c;font-family:Open Sans,sans-serif;font-weight:600}.ah-field-text-blue-semi-bold{font-size:30px}.ah-text-secundary-blue{color:#00448c}.ah-link-text,.ah-text-secundary-blue{font-size:14px;font-family:Open Sans,sans-serif;font-weight:700}.ah-link-text{color:#5b5b5b}.ah-text-gray-drak{color:#333;font-size:16px;font-family:Open Sans,sans-serif;font-weight:700}.ah-link-text:last-child{font-weight:700}.ah-btn-blue-border{border:1px solid #004b9b;color:#004b9b;padding:5px 10px;border-radius:100px;background-color:transparent;text-transform:uppercase}.ah-btn-blue-border.active,.ah-btn-blue-border:hover{background-color:#004b9b;color:#fff;outline:none}.greet-h1{color:#333;font-family:Nunito,sans-serif}.ah-table{border-collapse:collapse;width:90%}.ah-table-header{border-bottom:1px solid #333}.first-header{color:#888;font-size:22px}.first-header,.secundary-headers{font-family:Open Sans,sans-serif;font-weight:600}.secundary-headers{color:#333;font-size:13px}.item-bordered-bottom{border-collapse:collapse;border-top:1px solid #dce5ee}.ah-table-item td{border-collapse:collapse;padding-top:1em}.responsive{display:none}.ah-button-default-secundary,.ah-button-default-selector,.ah-button-primary,.ah-button-primary-disabled,.ah-button-primary-selector,.ah-button-secundary,.ah-button-secundary-disabled{font-family:Nunito,sans-serif;font-weight:700;color:#1e376e;border-radius:50px;padding-left:100px;padding-right:100px;text-transform:uppercase;box-shadow:0 5px 15px rgba(0,11,64,.1);border:none}.ah-button-active{cursor:pointer}.ah-button-inactive{background-color:#5b5b5b;color:#1e376e;cursor:default}.ah-button-primary{font-size:20px;background-color:#f5c337;height:50px}.ah-button-secundary{font-size:16px;background-color:#f5c337;height:40px}.ah-button-primary-disabled{font-size:20px;background-color:#ccc;height:50px;color:#5b5b5b}.ah-button-secundary-disabled{font-size:16px;background-color:#ccc;height:40px;color:#5b5b5b;padding-top:5px}.ah-button-default-secundary{font-size:20px;background-color:#f5f7f9;height:auto;border-color:#004b9b}.ah-button-default-selector{font-size:12px;background-color:#f5f7f9;height:30px;border-color:#004b9b}.ah-button-primary-selector{font-size:12px;background-color:#004b9b;height:30px;color:#fff;border-color:#004b9b}.ah-list{background-color:#f5f7f9;color:#333;font-family:Nunito,sans-serif;height:100%;margin-bottom:.25em;min-height:1em;padding:.25em 0;width:100%;overflow-y:auto}.ah-list&gt;*{border-bottom:1px solid #797979}.ah-list:last-child{border-bottom:none;margin-bottom:1em}.ah-comp-group{margin-bottom:20px}.ah-comp-group__container{display:-webkit-box;display:-ms-flexbox;display:flex;padding:10px;width:100%;box-sizing:border-box}.ah-comp-group__icon{width:50px;text-align:center}.ah-handled-input__field{width:calc(100% - 50px)}.ah-form__button{text-align:center}ah-side app-transfer-origin .nav-segment-container{padding-top:0;background-color:transparent;border-bottom:1px solid #ccc}ah-side app-transfer-origin .nav-segment-container h2{color:#333;font-family:Nunito,sans-serif;margin-bottom:5px;font-weight:600}ah-side .side-body .transfer-sidebar__cont&gt;.nav-segment-container{padding-top:100px}ah-side .side-body .transfer-sidebar__cont .nav-segment-container{border:none}ah-side .side-body .transfer-sidebar__cont .nav-segment-container .nav-segment-top{border-bottom:1px solid #888}ah-side .side-body .transfer-sidebar__cont .nav-segment-container .nav-segment-item{margin-bottom:-1px;margin-left:0;color:#888;padding-top:0}ah-side .side-body .transfer-sidebar__cont .nav-segment-container .nav-segment-item.nav-segment-item-selected,ah-side .side-body .transfer-sidebar__cont .nav-segment-container .nav-segment-item.nav-segment-item-selected h6{color:#004b9b}ah-side .side-body .transfer-sidebar__cont .nav-segment-container .nav-segment-item:focus{border:none;outline:0}ah-side .side-body .transfer-sidebar__cont .nav-segment-container .nav-segment-item h6{font-family:Open Sans,sans-serif;font-weight:400;height:30px;vertical-align:top;display:inline-block}ah-side .side-body .transfer-sidebar__cont .nav-segment-container .nav-segment-item .segment-item-selected{border-bottom-color:#004b9b!important}ah-side .side-body .transfer-sidebar__cont .accounts-list .ah-list{background-color:transparent}ah-side .side-body .transfer-sidebar__cont .accounts-list .ah-list .ah-account-component{border-bottom-color:#ccc;padding-bottom:10px;margin-bottom:10px;font-family:Open Sans,sans-serif;cursor:pointer;display:-webkit-box;display:-ms-flexbox;display:flex}ah-side .side-body .transfer-sidebar__cont .accounts-list .ah-list .ah-account-component&gt;div{vertical-align:top}ah-side .side-body .transfer-sidebar__cont .accounts-list .ah-list .ah-account-component .ah-account{font-weight:300;width:65%}ah-side .side-body .transfer-sidebar__cont .accounts-list .ah-list .ah-account-component .ah-account b{font-weight:600}ah-side .side-body .transfer-sidebar__cont .accounts-list .ah-list .ah-account-component .ah-account .ah-account-description{color:#888;font-size:10px;line-height:1em}ah-side .side-body .transfer-sidebar__cont .accounts-list .ah-list .ah-account-component .ah-balance{color:#004b9b;font-weight:600;width:35%;text-align:right}ah-side .side-body .transfer-sidebar__cont .accounts-list .ah-list-header{font-weight:700;margin-bottom:15px}.secundary-control-container input,.secundary-control-container textarea{background-color:transparent;color:#004b9b;border-bottom:1px solid #ccc!important;padding-bottom:10px;font-weight:600;font-size:16px}@media (max-width:750px){tbody .responsive{display:table-cell}thead tr th{display:none}.first-header{display:table-cell}}@media (orientation:portrait){.ah-button{width:23em}.ah-button-default-secundary,.ah-button-default-selector,.ah-button-primary,.ah-button-primary-disabled,.ah-button-primary-selector,.ah-button-secundary,.ah-button-secundary-disabled{width:100%!important;line-height:1em;padding:10px 0!important;text-align:center}}</style><style>[text-left]{text-align:left}[text-center]{text-align:center}[text-right]{text-align:right}[text-justify]{text-align:justify}[text-nowrap]{white-space:nowrap}[text-uppercase]{text-transform:uppercase}[text-lowercase]{text-transform:lowercase}[text-capitalize]{text-transform:capitalize}.label-container p{font-family:Open Sans,sans-serif;font-size:14px}p{color:#999}.ah-i-favorito_inactivo:before{font-size:1.2em}.ah-i-favorito_activo:before{color:#f5c337;font-size:1.2em}.d-inline{display:inline-block!important}.d-block{display:block!important}ah-side .side-body{background-color:#eaecf2;border-radius:10px;padding:0 2% 50px 2%;box-sizing:border-box;height:auto;min-height:100%}button:active,button:focus,button:visited{outline:none}.form-group{margin:3.5em 0 3.5em 0}.form-group div{display:inline-block}.form-group input,.form-group text-area{font-size:16pt}.ah-handled-input-container{cursor:pointer}.simple-field.filled .secundary-control-container input{color:#004b9b}.simple-field.filled .first-icon-container i:before{color:#333}.ah-btn-round-white{width:100px;vertical-align:top;text-align:center!important;cursor:pointer}.ah-btn-round-white i{background-color:#fff;color:#00448c!important;box-shadow:0 4px 6px rgba(0,11,64,.1);width:80px;height:80px;border-radius:40px;display:block;box-sizing:border-box;padding-top:17px;text-align:center!important;margin:0 auto 10px auto}.ah-btn-round-white i:before{color:#00448c!important;font-size:35pt}.ah-btn-round-white span{font-family:Open Sans,sans-serif;font-size:12px;color:#333;line-height:1em}.secundary-control-container input,.secundary-control-container textarea{font-family:Open Sans,sans-serif!important}.transactionForm__error-msg{font-family:Open Sans,sans-serif;font-size:12px;color:red;padding:0 25px}.ui-datepicker{height:320px!important;width:310px!important;padding:20px!important;background-color:#fff;font-family:Open Sans,sans-serif!important}.ui-datepicker .ui-datepicker-calendar{border-collapse:separate}.ui-datepicker .ui-datepicker-calendar thead th{background-color:inherit!important;padding:0!important}.ui-datepicker .ui-datepicker-calendar thead th span{font-weight:700!important;color:#5b5b5b!important;font-size:13px!important}.ui-datepicker .ui-datepicker-calendar td{height:17px!important;border-bottom:none!important}.ui-datepicker .ui-datepicker-calendar td a{line-height:40px;padding:0!important;height:40px!important;font-size:13px!important;color:#888!important}.ui-datepicker .ui-datepicker-calendar .ui-state-default{background:inherit!important}.ui-datepicker .ui-datepicker-calendar .ui-datepicker-today{background-color:#00448c!important;border-radius:50px!important}.ui-datepicker .ui-datepicker-calendar .ui-datepicker-today a{border-radius:50px!important;color:#fff!important}.ui-datepicker .ui-datepicker-calendar .ui-datepicker-other-month{visibility:hidden!important}.ui-datepicker .ui-datepicker-calendar .ui-datepicker-current-day a{border:2px solid #00448c!important;border-radius:50px!important;color:#00448c!important}.ui-datepicker .ui-datepicker-header{color:#5b5b5b!important;background:none!important;border:none!important;height:30px;font-size:13px!important}.ui-datepicker .ui-datepicker-header .ui-corner-all,.ui-datepicker .ui-datepicker-header .ui-datepicker-title{background-color:#f0f0f0!important;border-radius:50px;font-weight:600!important}@media (orientation:portrait){ah-side .side-body{border-radius:0}.ah-btn-round-white{margin:0 auto}}html{font-family:Roboto-Regular,Roboto;font-color:#999999;font-size:16px}html :link,html :visited{color:#757575}.enable-hover a:hover{opacity:.7}body,html{margin:0;padding:0;width:100%;height:100%}.click-block{position:absolute;top:0;right:0;bottom:0;left:0;z-index:999999;display:block;opacity:0;-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0);-webkit-transform:translate3d(0,calc(-100% + 1px),0);transform:translate3d(0,calc(-100% + 1px),0)}.click-block-active{-webkit-transform:translateZ(0);transform:translateZ(0)}.no-select{-webkit-touch-callout:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}</style><style>.fc-bg table,.fc-content-skeleton table{border-collapse:separate;border-spacing:5px;-webkit-border-vertical-spacing:2px}.fc-week{height:7em}.fc-week .fc-more-cell div{color:#00448c;text-align:right;cursor:pointer!important;text-decoration:underline!important}.fc-week .fc-more-cell div a{font-family:Open Sans,sans-serif;font-size:10px}.fc-week .fc-other-month{background-color:transparent!important}.fc-week .fc-day-number{font-family:Nunito,sans-serif;font-weight:700;color:#5b5b5b;float:left!important}.fc-week .fc-event{color:#333;font-family:Open Sans,sans-serif;font-size:10px;background-color:transparent;border:none;text-overflow:ellipsis;padding:0 6px}.fc-week .fc-event .fc-content{width:80%;display:inline-block;vertical-align:middle;text-overflow:ellipsis}.fc-week .fc-event .indicator{margin-right:4px}.fc-week .fc-bg .fc-day,.fc-week .fc-bg .fc-today{background-color:#fff}.fc-week .fc-bg .fc-today{border:2px solid #00448c}.fc-week .fc-bg .fc-day{border-radius:10px!important;margin-right:.3em;height:4em}.fc-week .fc-content-skeleton .fc-today span{color:#00448c!important}.fc-widget-content:not(.fc-day){border:none}.fc-header-toolbar{font-family:Open Sans,sans-serif}.fc-header-toolbar .fc-center{background-color:#fff;border-radius:50px;border:1px solid #dce5ee;width:calc(100% - 80px);height:30px;text-align:center;padding:5px 0;box-sizing:border-box}.fc-header-toolbar .fc-center h2{font-size:14px;float:none;font-weight:600}.fc-header-toolbar .fc-button{border-radius:50%!important;border:1px solid #dce5ee;background-image:none;text-align:center;height:30px;width:30px;padding:0!important;background-color:#fff}.fc-header-toolbar .fc-button:hover{background-color:#fff}</style><script type="text/javascript" charset="utf-8" async="" src="0.7d311d474eedf1b327ce.chunk.js"></script><script type="text/javascript" charset="utf-8" async="" src="6.28f7487b61cf28b73ffe.chunk.js"></script><style>.loading-container[_ngcontent-c1]{
+                position: absolute;
+                display: table;
+                width: 100%;
+                height: 100%;
+                z-index: 99;
+                background-color: rgba(220, 220, 220, .4);
+            }
+
+            .img-container[_ngcontent-c1]{
+                height: 100%;
+                display: table-cell;
+                vertical-align: middle;
+                text-align: center;
+            }
+            
+            img[_ngcontent-c1] {
+                width: 5vw;
+            }</style><style>.info-container[_ngcontent-c2]{margin:0 auto;width:100%;text-align:center}.info-container[_ngcontent-c2]   .title-container[_ngcontent-c2]{margin-bottom:4.5em;font-size:18pt}.info-container[_ngcontent-c2]   .subtitle-container[_ngcontent-c2]{margin-bottom:2.5em;font-size:14pt}.info-container[_ngcontent-c2]   .form-container[_ngcontent-c2]{width:23em;margin:0 auto}.info-container[_ngcontent-c2]   .logo-container[_ngcontent-c2]{width:4em;height:5em;left:0;top:0}.info-container[_ngcontent-c2]   .logo-container[_ngcontent-c2]   img[_ngcontent-c2]{left:0;top:0;width:100%}.logo-container[_ngcontent-c2]{height:10%;width:10%}.login-container[_ngcontent-c2]{background-color:#f5f7f9;box-sizing:border-box;padding:9%;height:100%;width:100%}.footer[_ngcontent-c2]{bottom:0;position:absolute;width:100%}.footer[_ngcontent-c2]   p[_ngcontent-c2]{display:inline-block}.footer[_ngcontent-c2]   .copyright[_ngcontent-c2]{right:0}@media (orientation:portrait){.login-container[_ngcontent-c2]{padding:4%}.info-container[_ngcontent-c2]{text-align:left}.info-container[_ngcontent-c2]   .logo-container[_ngcontent-c2]{height:7em}.info-container[_ngcontent-c2]   .subtitle-container[_ngcontent-c2], .info-container[_ngcontent-c2]   .title-container[_ngcontent-c2]{margin-bottom:1.5em}.info-container[_ngcontent-c2]   .login-title[_ngcontent-c2]{font-size:14pt}.info-container[_ngcontent-c2]   .login-subtitle[_ngcontent-c2]{font-size:12pt}.info-container[_ngcontent-c2]   .form-container[_ngcontent-c2]{width:auto}}</style><style></style><style>:host{width:81%}.ui-autocomplete{border:1pt solid #00448c!important;border-bottom-left-radius:10px;border-bottom-right-radius:10px;font-size:16pt;color:#00448c}.ui-autocomplete .ui-menu-item{padding:0 .3em}.ui-autocomplete .ui-menu-item:hover{color:#fff;background-color:#00448c}.ui-autocomplete .ui-menu-item-wrapper{border-bottom-color:#d1d4e0;padding:.5em 0;border-bottom-width:1pt;border-bottom-style:solid}.ui-autocomplete .ui-state-active{background-color:#00448c;border:none}.autocomplete-input-container input{width:98%!important}@media (min-width:100px) and (max-width:767px){:host{width:92%}}</style><style>[_nghost-c5]{width:81%}.ah-comp-group__container[_ngcontent-c5]{width:100%}.control-container[_ngcontent-c5]{width:85%}.secundary-control-container[_ngcontent-c5]{width:98%;display:block}ah-first-icon[_ngcontent-c5]{position:relative}.ah-input-container[_ngcontent-c5]{display:-webkit-box;display:-ms-flexbox;display:flex;width:85%}@media (min-width:100px) and (max-width:767px){[_nghost-c5]{width:92%}}</style><style>.label-container[_ngcontent-c8] { 
+				margin: 0;
+				padding: 0;
+                overflow: hidden;
+                display: block;
+			}
+			
+			.label-container[_ngcontent-c8]   p[_ngcontent-c8] {
+                font-size: 11px;
+                margin:0;
+            }
+            
+            p[_ngcontent-c8] {
+                text-align: left !important;
+            }</style><style>.cursor-pointer{cursor:pointer}.control-container{display:inline-block;margin-top:0;margin-bottom:0;width:98%}.secundary-control-container{position:relative;width:100%}.secundary-control-container input{background-color:transparent}.secundary-icon{right:0;top:-.5em;position:absolute}</style></head><body><app-root ng-version="4.4.6"><!---->
+
+
+<router-outlet></router-outlet><app-auth _nghost-c2="" class=""><div _ngcontent-c2="" class="login-container">
+
+	<div _ngcontent-c2="" class="info-container">
+
+		<section _ngcontent-c2="" class="logo-container">
+			<img _ngcontent-c2="" alt="Bancolombia" src="../../assets/logo.png" />
+		</section>
+
+		<section _ngcontent-c2="" class="title-container">
+			<h1 _ngcontent-c2="" class="ah-title login-title">Bienvenido a Sucursal Virtual Negocios</h1>
+		</section>
+
+		<section _ngcontent-c2="" class="subtitle-container">
+			<h3 _ngcontent-c2="" class="ah-field-text-gray login-subtitle">
+				Ingresa tus datos personales para comenzar
+			</h3>
+		</section>
+
+		<section _ngcontent-c2="" class="form-container">
+			<router-outlet _ngcontent-c2=""></router-outlet><app-login _nghost-c3=""><form _ngcontent-c3="" novalidate="" class="ng-untouched ng-pristine ng-invalid">
+
+	<div _ngcontent-c3="" class="ah-comp-group">
+		<ah-autocomplete _ngcontent-c3="">
+        <div class="ah-comp-group__container">
+            <!---->
+            <div class="control-container ah-handled-input__field" style="width: 100%;">
+                <ah-label _nghost-c8="" class="ng-tns-c8-0">
+    <div _ngcontent-c8="" class="label-container">
+        <p _ngcontent-c8="" class="ng-tns-c8-0 ng-trigger ng-trigger-labelActions" style="transform: translateY(25px);">
+            Tipo de identificación
+        </p>
+    </div>
+    </ah-label>
+                <span class="secundary-control-container autocomplete-input-container">
+                    
+			<input _ngcontent-c3="" ahautocomplete="" ahcontrol="" formcontrolname="clientDocumentType" placeholder="Tipo de identificación" type="text" class="ng-untouched ng-pristine ng-invalid ui-autocomplete-input" autocomplete="off" style="border-top: none; border-right: none; border-bottom: 1px dotted lightgray; border-left: none; border-image: initial; width: 100%;" />
+		
+                    <ah-secudary-icon class="cursor-pointer">
+        <span class="secundary-icon">
+            <i class="ah-i-arrow_down"></i>
+        </span>
+    </ah-secudary-icon>
+                </span>
+            </div>
+        </div>
+    </ah-autocomplete>
+	</div>
+
+	<div _ngcontent-c3="" class="ah-comp-group">
+		<ah-input _ngcontent-c3="" _nghost-c5="">
+		<div _ngcontent-c5="" class="ah-comp-group__container">
+			<!---->
+			<div _ngcontent-c5="" class="control-container ah-handled-input__field" style="width: 100%;">
+				<ah-label _ngcontent-c5="" _nghost-c8="" class="ng-tns-c8-1">
+    <div _ngcontent-c8="" class="label-container">
+        <p _ngcontent-c8="" class="ng-tns-c8-1 ng-trigger ng-trigger-labelActions" style="transform: translateY(25px);">
+            Número de Identificación
+        </p>
+    </div>
+    </ah-label>
+				<span _ngcontent-c5="" class="secundary-control-container">
+					
+			<input _ngcontent-c3="" ahcontrol="" ahinput="" formcontrolname="clientDocument" maxlength="15" placeholder="Número de Identificación" id="input-1" class="ng-untouched ng-pristine ng-invalid" style="border-top: none; border-right: none; border-bottom: 1px dotted lightgray; border-left: none; border-image: initial; width: 100%;" />
+		
+					<ah-secudary-icon _ngcontent-c5="">
+        <span class="secundary-icon">
+            <i class=""></i>
+        </span>
+    </ah-secudary-icon>
+				</span>
+			</div>
+		</div>
+	  </ah-input>
+	</div>
+
+
+	<div _ngcontent-c3="" class="ah-comp-group">
+		<button _ngcontent-c3="" class="ah-button-primary-disabled" disabled="">
+			Continuar
+		</button>
+	</div>
+
+</form>
+
+
+<!----></app-login>
+		</section>
+
+	</div>
+</div></app-auth></app-root><script type="text/javascript" src="inline.57a1f83a2e8996a587e1.bundle.js"></script><script type="text/javascript" src="polyfills.8923f71952cc66c9e86b.bundle.js"></script><script type="text/javascript" src="vendor.b535ee234e307d3f70a6.bundle.js"></script><script type="text/javascript" src="main.a75f4b8d27110214ba8e.bundle.js"></script><script id="mfpAnalyticsInit" src="/assets/ibm-mfp-web-sdk/lib/analytics/ibmmfpfanalytics.js" async="" defer=""></script><ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div></body></html>
